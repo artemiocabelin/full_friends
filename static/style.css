@@ -1,0 +1,28 @@
+table {
+    border: 1px solid black;
+    /*background: red;*/
+    margin: 0 auto;
+}
+
+#header {
+    margin: 0 auto;
+    /*background: blue;*/
+    width: 22%;
+    /* text-align: center; */;
+}
+
+form {
+    /*background: red;*/
+    width: 23%;
+    margin: 0 auto;
+}
+
+#below {
+    margin-top: 10px;
+}
+
+#submit {
+    display: block;
+    /* background: blue; */
+    margin-top: 10px;
+}
